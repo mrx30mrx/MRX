@@ -1,2 +1,0 @@
-# MRX
-yamaha psr340
